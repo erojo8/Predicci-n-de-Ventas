@@ -1,4 +1,4 @@
-Sales Prediction for a Retail Store
+# Sales Prediction for a Retail Store
 
 The main goal is to develop a model that predicts future sales based on historical data and other influencing factors. Here's a summary of the key steps:
 
